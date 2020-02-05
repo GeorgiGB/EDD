@@ -1,0 +1,3 @@
+Enllaç [Ves a google](htt ps:ww. google .com)
+
+Imatge: ![Mi imagen] imatges/imatges.png
